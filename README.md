@@ -11,11 +11,12 @@
 
 ### 2. Data Understanding
 
-Use pandas to explore data to data understanding.
+Use pandas to explore data to data understanding. <br>
+Find renting a house every day of week、day of month、day of year、week of year the price change.
 
 ### 3. Prepare Data
-Use pandas to clearing data
-
+Use pandas to clearing data <br>
+drop missing data and format data.
 ### 4.Model Data
 Use OLS and Random Forest to predict data.
 
